@@ -1,0 +1,7 @@
+/Debug
+/Settings
+/*.dep
+/*.ewd
+/*.ewp
+/*.ewt
+/STM32L1xx_StdPeriph_Driver/*.html
